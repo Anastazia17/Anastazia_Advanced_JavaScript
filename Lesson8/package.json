@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Anastazia17/Anastazia_Advanced_JavaScript.git"
     },
     "author": "Anastazia",
     "license": "MIT",
     "bugs": {
-        "url": ""
+        "url": "https://github.com/Anastazia17/Anastazia_Advanced_JavaScript/issues"
     },
-    "homepage": "",
+    "homepage": "https://github.com/Anastazia17/Anastazia_Advanced_JavaScript/js-next#readme",
     "dependencies": {
         "body-parser": "^1.18.3",
         "express": "^4.16.4",
@@ -25,9 +25,9 @@
         "webpack-cli": "^3.3.0"
     },
     "keywords": [
-        "js",
-        "next",
-        "geekbrains",
-        "learning"
+        "JavaScript",
+        "Advanced",
+        "GeekBrains",
+        "Lesson8"
     ]
 }
